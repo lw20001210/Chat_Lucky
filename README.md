@@ -1,6 +1,6 @@
-# **UniApp + Vue3 跨端开发：Node.js 全栈实现 H5/公众号/APP 多端兼容应用**
+# **UniApp + Vue3 跨端开发：Node.js 全栈实现 H5/公众号/APP 多端聊天应用**
 ## 项目介绍
-本项目基于 uni-app + vue3 + sequlize+ node.js+express + mysql + socket.io + pinia 开发，实现跨端多端兼容应用，兼容h5、公众号、App。
+本项目基于 uni-app + vue3 + sequlize+ node.js+express + mysql + socket.io + pinia 开发，实现跨端多端兼容聊天应用，兼容h5、公众号、App。
 
 ## 项目运行后端
 

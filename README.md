@@ -88,23 +88,23 @@
 
 ## 项目部分截图
 
-<img src="./static/login.jpg" alt="登录" style="zoom: 25%;" />
+<img src="./static/login.jpg" alt="登录" style="height: 500px;width:300px" />
 
-<img src="./static/home.jpg" alt="首页" style="zoom:25%;" />
+<img src="./static/home.jpg" alt="首页" style="height: 500px;width:300px" />
 
-<img src="./static/friend.jpg" alt="好友" style="zoom:25%;" />
+<img src="./static/friend.jpg" alt="好友" style="height: 500px;width:300px" />
 
-<img src="./static/privateChat.jpg" alt="私聊" style="zoom:25%;" />
+<img src="./static/privateChat.jpg" alt="私聊" style="height: 500px;width:300px" />
 
-<img src="./static/groupChat.jpg" alt="群聊" style="zoom:25%;" />
+<img src="./static/groupChat.jpg" alt="群聊" style="height: 500px;width:300px" />
 
-<img src="./static/apply.jpg" alt="好友申请" style="zoom:25%;" />
+<img src="./static/apply.jpg" alt="好友申请" style="height: 500px;width:300px" />
 
-<img src="./static/privateChat.jpg" alt="私聊" style="zoom:25%;" />
+<img src="./static/privateChat.jpg" alt="私聊" style="height: 500px;width:300px" />
 
-<img src="./static/groupChat.jpg" alt="群聊" style="zoom:25%;" />
+<img src="./static/groupChat.jpg" alt="群聊" style="height: 500px;width:300px" />
 
-<img src="./static/privateSpace.jpg" alt="个人空间" style="zoom:25%;" />
+<img src="./static/privateSpace.jpg" alt="个人空间" style="height: 500px;width:300px" />
 
-<img src="./static/friendSpace.jpg" alt="朋友圈" style="zoom:25%;" />
+<img src="./static/friendSpace.jpg" alt="朋友圈" style="height: 500px;width:300px" />
 
